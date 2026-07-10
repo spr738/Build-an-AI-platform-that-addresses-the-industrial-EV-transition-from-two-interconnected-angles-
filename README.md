@@ -1,0 +1,2 @@
+# Build-an-AI-platform-that-addresses-the-industrial-EV-transition-from-two-interconnected-angles-
+Build an AI platform that addresses the industrial EV transition from two interconnected angles: (1)  helping asset-intensive organisations manage EV fleets with the same operational rigour as  conventional industrial equipment — covering procurement intelligence, predictive asset  performance management, and maintenance operations; 
